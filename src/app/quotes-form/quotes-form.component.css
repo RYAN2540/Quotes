@@ -1,0 +1,11 @@
+.red-danger{
+    color: red;
+    font-size: x-small;
+}
+
+input{
+    background-color: rgb(255, 255, 255,0.5);
+}
+textarea{
+    background-color: rgb(255, 255, 255,0.5);
+}

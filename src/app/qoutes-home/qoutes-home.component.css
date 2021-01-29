@@ -1,0 +1,80 @@
+.background{
+    background-image: url('../../assets/images/background.jpg');    
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.jumbotron{
+    margin-left: 2%;
+    margin-right: 2%;    
+    background-color: transparent;
+    color: black;
+    border-radius: 0%;        
+}
+
+.jumbotron h1{
+    font-family: beatrice-bw7r5Font;
+    font-size: 7em;
+}
+
+.quotes-form{
+    background-color: transparent;
+    padding: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.quotes-content{
+    max-height: 30em;
+    overflow-y: scroll;
+    padding-left: 2em;
+    padding-right: 2em;    
+}
+
+.quotes-content::-webkit-scrollbar{
+    visibility: hidden;
+}
+
+.card{
+    background-color: whitesmoke;
+    margin: 0%;
+    padding: 0%;    
+}
+
+.card hr{
+    margin-top: 0%;
+    margin-bottom: 1em;
+}
+
+.card-body{
+    margin: 0%;
+    padding-bottom: 0%;
+}
+
+blockquote{
+    margin: 0%;
+    padding: 0%;
+}
+
+.card p{
+    line-height: 0.5em;
+}
+
+.deleteQuote{
+    font-size: small;
+}
+
+.deleteQuote:hover{
+    cursor: pointer;
+    color: brown;
+}
+
+.margin-b{
+    margin-bottom: 2em;
+}
+
+.time-passed{
+    font-size: x-small;
+}

@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col-1 text-right">
+        <p (click)='upvotePlus()' class="thumb-vote"><fa-icon [icon]="faThumbsUp"></fa-icon></p>
+    </div>
+    <div class="col-1 text-left">
+        <p>{{quote.upvotes}}</p>
+    </div>
+    <div class="col-1 text-right">
+        <p (click)='downvotePlus()' class="thumb-vote"><fa-icon [icon]="faThumbsDown"></fa-icon></p>
+    </div>
+    <div class="col-1 text-left">
+        <p>{{quote.downvotes}}</p>
+    </div>
+    <div class=" col-8 text-right">
+        <p class="posted-by">Posted by {{quote.yourName}} on {{quote.date|date}}.</p>
+    </div>   
+</div>

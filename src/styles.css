@@ -1,0 +1,12 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+    scroll-behavior: smooth;
+    background-color: transparent;    
+  }
+

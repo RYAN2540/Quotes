@@ -5,7 +5,7 @@
 Quotes app allows users to post quotes with the names of their authors. Users are able to react to the 
 posted quotes by either upvoting or downvoting them. Each quote begins with an initial upvote and downvote of zero. The most upvoted quote/quotes are highlighted. The app also allows a user to delete a specific post entry they made. Each post entry when hovered upon will show the person that posted and date of posting. Time since the time of posting is also shown. 
 #### Latest updated version is on 29th January 2021.
-\*Check out the project through <a href="https://ryan2540-21fb21a454.drafts.github.io/Quotes/">This Link.</a>
+\*Check out the project through <a href="https://ryan2540.github.io/Quotes/">This Link.</a>
 
 ## Technologies used
 
